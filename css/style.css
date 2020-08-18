@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #17BBBA;
+  color: #FFFFFF;
+  margin: 0;
+
+}
+
+h2{
+  
+  color: #080b4a;
+}
+
+.titulo-infancia{
+  color: #072423;
+  font-style: italic;
+}
+
+.titulo-juventude{
+  color: #f5fa96;
+  font-style: italic;
+}
+
+.titulo-adulta{
+  color: #cdfcca;
+  font-style: italic;
+}
+section{
+  width: 60%;
+  margin: 0 auto;
+}
+
+section section{
+  width: 100%;
+}
+
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left:0;
+}
+
+a{
+  text-decoration: none;
+  color: #99ffff;
+  font-weight: 700;
+}
+
+.menuprincipal a{
+
+color:#FFFFFF;
+text-decoration: underline;
+font-weight: normal;
+}
+
+.menuprincipal{
+
+  background-color: #080b4a;
+  height: 45px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+ 
+.menuprincipal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+button {
+  background-color:#41f341; 
+  border: solid 1px transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+
+}
